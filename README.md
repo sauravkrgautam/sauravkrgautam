@@ -1,6 +1,6 @@
 
 Saurav Kumar - Backend Developer
-Welcome to my GitHub profile! I’m Saurav Kumar, a student and backend developer specializing in building robust applications. I have a keen interest in software development and am passionate about improving my skills in programming.
+Welcome to my GitHub profile! I’m Saurav Kumar, a student and backend developer specializing in building robust applications. I have a keen interest in software development and am passionate about improving my skills in programming..
 
 About Me
 🌱 I’m currently learning Advanced Python.
