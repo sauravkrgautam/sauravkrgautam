@@ -22,8 +22,8 @@ Mentorship Opportunities: Learning from others and sharing knowledge.
 
 📫 Let's Connect
 Feel free to reach out:
-Email: sauravkr.0812@gmail.com
-LinkedIn: LinkedIn Profile
+Email: [please mail to me](sauravkr.0812@gmail.com)
+LinkedIn: [Linkedin](https://www.linkedin.com/in/sauravkr22/)
 
 ⚡ Fun Fact
 When I’m not coding, you can find me tackling coding challenges or diving into the latest tech trends!
