@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m Saurav Kumar, a student and backend develope
 
 💬 Ask me about Node.js, Express.js, MySQL, MongoDB, and web scraping.
 
-📫 How to reach me: sauravkr.0812@gmail.com
+📫 How to reach me: [mail to me](sauravkr.0812@gmail.com)
 
 ⚡ Fun fact: I enjoy tackling complex coding challenges!
 
