@@ -37,6 +37,6 @@ Link: [GitHub Repository](https://github.com/saurav0813/WebPicExtractor)
 Contributions: Actively contributing to personal projects and exploring new technologies in software development.
 
 ## Connect with Me
-LinkedIn
+Link: [LinkedIn](https://www.linkedin.com/in/sauravkrgautam/)
 
 Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or chat.
