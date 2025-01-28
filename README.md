@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m Saurav Kumar, a student and backend develope
 ## Skills
 Languages: Python, JavaScript
 
-Frameworks/Libraries: Node.js, Express.js, Flask
+Frameworks/Libraries: Node.js, Express.js, Flask, Django
 
 Databases: MySQL, MongoDB
 
